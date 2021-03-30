@@ -2,6 +2,9 @@
 <html>
 <head>
 <style>
+.p1 {
+    font-family: "Lucida Console", "Courier New", monospace;
+}
 body {
   background-color: linen;
 }
@@ -13,7 +16,7 @@ hl {
 </head>
 <body>
 <h1>My Page :)</h1>
-<p>just some things i cooked up.</p>
+<p class="p1">just some things i cooked up.</p>
 
 </body>
 </html>
