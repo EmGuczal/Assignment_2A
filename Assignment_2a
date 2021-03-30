@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: linen;
+}
+hl {
+  color: maroon;
+  margin-left: 40px;
+}
+</style>
+</head>
+<body>
+<h1>My Page :)</h1>
+<p>just some things i cooked up.</p>
+
+</body>
+</html>
